@@ -7,7 +7,7 @@ average = (mark1 + mark2) / 2
 
 print("Student Name:", name)
 print("Average Mark:", average)
-
+print("mark",mark1)
 if average >= 50:
     print("Result: Pass")
 else:
